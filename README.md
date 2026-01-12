@@ -108,7 +108,7 @@ Uber_project/
 
 🔹 How to Run Locally
 # Clone the repository
-git clone https://github.com/amolmishra09/Uber_project.git
+git clone https://github.com/anmolmishra09/Uber_project
 
 # Navigate to project folder
 cd Uber_project
