@@ -151,4 +151,3 @@ UI/UX design for scalable applications
 
 👤 Anmol Mishra
 🎓 B.Tech CSE | Frontend / Software Engineer Intern
-🔗 LinkedIn
